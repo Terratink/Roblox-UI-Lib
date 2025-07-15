@@ -1,11 +1,3 @@
---[[
-Octohook ui lib informant version
-Developed by liam#4567
-Edited by xz#1111
-]]
-
--- // Load
-
 local startupArgs = ({...})[1] or {}
 
 if getgenv().library ~= nil then
